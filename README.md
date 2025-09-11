@@ -24,14 +24,13 @@ Passionate about software development and always eager to take on new challenges
   <sub>Frontend | No Frameworks | Project Organization</sub>  
   An organized, framework-free frontend project to showcase touristic locations—demonstrating my ability to deliver clean code and polished UI.
 
-- **Task Management Web Application**
-  <sub>Authentication | Role Management | CRUD Functionality | REST APIs</sub>
+- **Task Management Web Application**  
+  <sub>Authentication | Role Management | CRUD Functionality | REST APIs</sub>  
   A multi-user web application with authentication, role-based access, CRUD features, and REST API integration.
 
-- **Financial Investment Optimization (Python, Excel)**
-  <sub>Dynamic Programming | Graph Theory | Data Integration</sub>
+- **Financial Investment Optimization (Python, Excel)**  
+  <sub>Dynamic Programming | Graph Theory | Data Integration</sub>  
   Developed a dynamic programming model to optimize investment strategies on graphs, implemented in Python with Excel integration.
-
 ---
 
 ## 🏅 Achievements
