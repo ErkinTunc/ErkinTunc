@@ -28,7 +28,7 @@ Passionate about software development and always eager to take on new challenges
   <sub>Authentication | Role Management | CRUD Functionality | REST APIs</sub>  
   A multi-user web application with authentication, role-based access, CRUD features, and REST API integration.
 
-- **Financial Investment Optimization (Python, Excel)**  
+- **Financial Investment Optimization Model (Python, Excel)**  
   <sub>Dynamic Programming | Graph Theory | Data Integration</sub>  
   Developed a dynamic programming model to optimize investment strategies on graphs, implemented in Python with Excel integration.
 ---
