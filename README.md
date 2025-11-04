@@ -1,11 +1,11 @@
 # Hi there, I'm Erkin Tunc! 👋
 
-🎓 **3rd Year Student at University of Clermont Auvergne**  
+**3rd Year Student at University of Clermont Auvergne**  
 Passionate about software development and always eager to take on new challenges. I thrive on building clean, maintainable, and user-friendly applications, and I’m constantly learning and growing in the world of tech.
 
 ---
 
-## 🚀 Tech Stack & Skills
+## Tech Stack & Skills
 
 - **Languages:** Python, Java, C, JavaScript, SQL
 - **Web Development:** HTML, CSS, Django, Bootstrap, AJAX
@@ -14,7 +14,7 @@ Passionate about software development and always eager to take on new challenges
 
 ---
 
-## 🌟 Notable Projects
+## Notable Projects
 
 - **Gomoku Game Project**  
   <sub>Object-Oriented Programming | Architecture | Documentation</sub>  
@@ -33,13 +33,13 @@ Passionate about software development and always eager to take on new challenges
   Developed a dynamic programming model to optimize investment strategies on graphs, implemented in Python with Excel integration.
 ---
 
-## 🏅 Achievements
+## Achievements
 
 - Currently pursuing multiple **Udemy certificates** to expand my development horizons.
 
 ---
 
-## 💪 About Me
+## About Me
 
 When I’m not coding, you’ll find me at the gym—bodybuilding is my other passion!  
 I’m also an avid reader of world literature, always looking to explore new perspectives and stories.  
@@ -47,7 +47,7 @@ I believe in the power of discipline both in fitness, literature, and programmin
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 - [LinkedIn: ErkinTunc](https://www.linkedin.com/in/erkin-tunc-boya-64b55028b/)
 - Personal Portfolio: _Coming Soon!_
