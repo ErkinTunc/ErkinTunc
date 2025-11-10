@@ -50,7 +50,6 @@ I believe in the power of discipline both in fitness, literature, and programmin
 ## Connect with Me
 
 - [LinkedIn: ErkinTunc](https://www.linkedin.com/in/erkin-tunc-boya-64b55028b/)
-- Personal Portfolio: _Coming Soon!_
 
 ---
 
