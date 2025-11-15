@@ -8,7 +8,7 @@ Passionate about software development and always eager to take on new challenges
 ## Tech Stack & Skills
 
 - **Languages:** Python, Java, C, JavaScript, SQL,
-- **Web Development:** HTML, CSS, Node-JS, Django, Bootstrap, AJAX
+- **Web Development:** HTML, CSS, Node-JS, Django, AJAX
 - **Tools & Others:** Linux, Git, LaTeX, Word, Excel
 - **Specialties:** Object-Oriented Programming, Dynamic Programming, Database Design
 
