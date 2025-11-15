@@ -63,14 +63,6 @@ Passionate about software development and always eager to take on new challenges
 
 ---
 
-## About Me
-
-When I’m not coding, you’ll find me at the gym—bodybuilding is my other passion!  
-I’m also an avid reader of world literature, always looking to explore new perspectives and stories.  
-I believe in the power of discipline both in fitness, literature, and programming.
-
----
-
 ## Connect with me:
 <p align="left">
  <a href="https://www.linkedin.com/in/erkin-tunc-boya-64b55028b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ErkinTunc" height="30" width="40" /></a>
