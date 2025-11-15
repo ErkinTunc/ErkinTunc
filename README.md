@@ -50,7 +50,7 @@ I believe in the power of discipline both in fitness, literature, and programmin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="(https://www.linkedin.com/in/erkin-tunc-boya-64b55028b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erkintunc" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/erkin-tunc-boya-64b55028b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ErkinTunc" height="30" width="40" /></a>
 </p>
 
 ---
