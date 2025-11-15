@@ -8,7 +8,6 @@ Passionate about software development and always eager to take on new challenges
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ErkinTunc&show_icons=true&locale=en&layout=compact" alt="ErkinTunc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erkintunc&" alt="ErkinTunc" /></p>
 
 ## Tech Stack & Skills
 
