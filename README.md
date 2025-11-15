@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erkin Tunc Boya</h1>
-<h3 align="center">A 3rd year university student in UCA France.</h3>
+<h3 align="center">A 3rd year university student in University of Clermont Auvergne.</h3>
 
 **3rd Year Student at University of Clermont Auvergne**  
 Passionate about software development and always eager to take on new challenges. I thrive on building clean, maintainable, and user-friendly applications, and I’m constantly learning and growing in the world of tech.
