@@ -43,7 +43,3 @@ Passionate about software development and always eager to take on new challenges
 <p align="left">
  <a href="https://www.linkedin.com/in/erkin-tunc-boya-64b55028b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ErkinTunc" height="30" width="40" /></a>
 </p>
-
----
-
-_“Building tomorrow’s software, one project at a time.”_
