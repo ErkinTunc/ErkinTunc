@@ -33,7 +33,7 @@ Passionate about software development and always eager to take on new challenges
   Developed a dynamic programming model to optimize investment strategies on graphs, implemented in Python with Excel integration.
 ---
 
-## Achievements
+## Ongoing learning
 
 - Currently pursuing [100 Days Of Code - 2025 Web Development Bootcamp](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/?couponCode=ACCAGE0923) to expand my development horizons.
 
