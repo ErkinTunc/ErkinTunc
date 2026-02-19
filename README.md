@@ -5,12 +5,14 @@ Passionate about software development and always eager to take on new challenges
 
 ---
 
-## Tech Stack & Skills
+### Core Stack
 
-- **Languages:** Python, Java, C, JavaScript, SQL,
-- **Web Development:** HTML, CSS, Node-JS, Django, AJAX
-- **Tools & Others:** Linux, Git, LaTeX, Word, Excel
-- **Specialties:** Object-Oriented Programming, Dynamic Programming, Database Design
+**Languages**  
+Java · Python · C · JavaScript · SQL  
+
+**Concepts**  
+Data Structures · Graph Algorithms · Dynamic Programming ·  
+Database Indexing · External Memory Algorithms
 
 ---
 
@@ -32,11 +34,6 @@ Passionate about software development and always eager to take on new challenges
   <sub>Dynamic Programming | DAG Modeling | Path Reconstruction</sub>  
   Investment optimization modeled as a time-indexed directed acyclic graph solved via dynamic programming.
 
----
-
-## Ongoing learning
-
-- Currently pursuing [100 Days Of Code - 2025 Web Development Bootcamp](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/?couponCode=ACCAGE0923).
 
 ---
 
