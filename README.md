@@ -16,21 +16,22 @@ Passionate about software development and always eager to take on new challenges
 
 ## Notable Projects
 
-- **Gomoku Game Project**  
-  <sub>Object-Oriented Programming | Architecture | Documentation</sub>  
-  A classic Gomoku game built with a strong OOP focus and thoroughly documented architecture.
+- **Gomoku (Java)**  
+  <sub>OOP | Layered Architecture | Search-Ready Design</sub>  
+  Terminal-based implementation with separated domain and search layers, immutable game state, and extensible engine structure.
 
 - **Travel Web Page**  
-  <sub>Frontend | No Frameworks | Project Organization</sub>  
-  An organized, framework-free frontend project to showcase touristic locations—demonstrating my ability to deliver clean code and polished UI.
+  <sub>HTML | CSS | JavaScript | AJAX</sub>  
+  Framework-free responsive website with client-side validation and AJAX-based authentication/chat features.
 
-- **Task Management Web Application**  
-  <sub>Authentication | Role Management | CRUD Functionality | REST APIs</sub>  
-  A multi-user web application with authentication, role-based access, CRUD features, and REST API integration.
+- **Task Management Web Application (Django)**  
+  <sub>Authentication | Role Management | Relational Modeling | CRUD</sub>  
+  Multi-user backend application with role-based access control and structured relational data design.
 
-- **Financial Investment Optimization Model (Python, Excel)**  
-  <sub>Dynamic Programming | Graph Theory | Data Integration</sub>  
-  Developed a dynamic programming model to optimize investment strategies on graphs, implemented in Python with Excel integration.
+- **Financial Investment Optimization (Python)**  
+  <sub>Dynamic Programming | DAG Modeling | Path Reconstruction</sub>  
+  Investment optimization modeled as a time-indexed directed acyclic graph solved via dynamic programming.
+
 ---
 
 ## Ongoing learning
