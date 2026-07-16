@@ -1,23 +1,34 @@
 <h1 align="center">Hi 👋, I'm Erkin Tunc Boya</h1>
-<h3 align="center">A 3rd-year Computer Science student at the University of Clermont Auvergne</h3>
+<h3 align="center">
+  First-year Master's student in Computer Science at Université Clermont Auvergne
+</h3>
  
 <p align="center">
-Focused on backend development, algorithm design, and structured software architecture.
+  Focused on backend engineering, data systems, and reliable software design.
 </p>
 
 ---
 
 <h2 align="center">Core Stack</h2>
 
-<p align="center"><strong>Languages</strong></p>
 <p align="center">
-Java · Python · C · JavaScript · SQL
+  <strong>Languages</strong><br>
+  Java · Python · C · JavaScript · SQL
 </p>
 
-<p align="center"><strong>Concepts</strong></p>
 <p align="center">
-Data Structures · Graph Algorithms · Dynamic Programming · 
-Database Indexing · External Memory Algorithms
+  <strong>Backend & Data</strong><br>
+  Django · SQLite · Relational Modeling · B-Trees
+</p>
+
+<p align="center">
+  <strong>Engineering</strong><br>
+  OOP · Design Patterns · JUnit 5 · Git · Linux
+</p>
+
+<p align="center">
+  <strong>Algorithms</strong><br>
+  Graphs · Dynamic Programming · External Sorting · Complexity Analysis
 </p>
 
 ---
