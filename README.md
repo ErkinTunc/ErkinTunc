@@ -9,30 +9,6 @@
 
 ---
 
-<h2 align="center">Core Stack</h2>
-
-<p align="center">
-  <strong>Languages</strong><br>
-  Java · Python · C · JavaScript · SQL
-</p>
-
-<p align="center">
-  <strong>Backend & Data</strong><br>
-  Django · SQLite · Relational Modeling · B-Trees
-</p>
-
-<p align="center">
-  <strong>Engineering</strong><br>
-  OOP · Design Patterns · JUnit 5 · Git · Linux
-</p>
-
-<p align="center">
-  <strong>Algorithms</strong><br>
-  Graphs · Dynamic Programming · External Sorting · Complexity Analysis
-</p>
-
----
-
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
